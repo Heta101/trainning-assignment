@@ -97,8 +97,8 @@ input{
     cursor: pointer;
 }
 #frgt{
-    top: 530px;
-    left: 1075px;
+    top: 500px;
+    left: 975px;
     width: 150px;
     height: 20px;
     text-align: left;
@@ -121,8 +121,8 @@ input{
     margin-top: 23.13px;
 }
 #register{
-    top: 583px;
-    left: 952px;
+    top: 546px;
+    left: 920px;
     width: 100px;
     height: 20px;
     text-align: left;
