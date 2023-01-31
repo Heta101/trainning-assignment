@@ -13,8 +13,15 @@
 }
 .main_page{
     margin-top: -300px;
-    margin-left: 200px;
+    margin-left: 200px; 
     background-color: #FAFAFA;
+}
+#search-box{
+    
+        width: 720px;
+        margin: 10px;
+        border: none;
+    
 }
 #one{
     top: 249px;
@@ -118,6 +125,4 @@
     margin-top: 10px;
 }
 
-form{
- 
-}
+
